@@ -1,10 +1,8 @@
 <h3 align="center">19 y.o from indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bizart&label=Profile%20views&color=0e75b6&style=flat" alt="bizart" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bizart&label=Profile%20views&color=0e75b6&style=flat" alt="XBIZART" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bizart" alt="bizart" /></a> </p>
-
-- 📫 contact me on **dwiyohan9@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
