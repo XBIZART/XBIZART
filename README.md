@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bizart" alt="bizart" /></a> </p>
 
-- 📫 How to reach me **dwiyohan9@gmail.com**
+- 📫 contact me on **dwiyohan9@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
