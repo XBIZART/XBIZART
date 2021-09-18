@@ -15,6 +15,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=XBIZART&show_icons=true&locale=en" alt="XBIZART" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XBIZART&" alt="XBIZART" /></p>
-
-http://github.com - automatic!
-[GitHub](http://github.com)
