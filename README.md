@@ -14,4 +14,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XBIZART&" alt="XBIZART" /></p>
 
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=XBIZART&no-bg=true&" alt="XBIZART" /></p>
+<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=XBIZART&column=3&margin-w=15&margin-h=15&" alt="XBIZART" /></p>
