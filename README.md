@@ -2,7 +2,7 @@
 <h3 align="center">im BIZART</h3>
 <h3 align="center">19 y.o from indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=XBIZART&label=Profile%20views&color=0e75b6&style=flat" alt="XBIZART" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XBIZART&label=Profile%20views&color=0e672b6&style=flat" alt="XBIZART" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=XBIZART&show_icons=true&locale=en&layout=compact" alt="XBIZART" /></p>
 
