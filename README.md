@@ -9,3 +9,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XBIZART&" alt="XBIZART" /></p>
 
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=XBIZART&column=3&margin-w=15&margin-h=15&" alt="XBIZART" /></p>
+
+[![.github/workflows/linux.yml](https://github.com/XBIZART/fastmac/actions/workflows/linux.yml/badge.svg?branch=master)](https://github.com/XBIZART/fastmac/actions/workflows/linux.yml)
