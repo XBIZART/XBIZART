@@ -4,7 +4,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=XBIZART&show_icons=true&locale=en&layout=compact" alt="XBIZART" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=XBIZART&show_icons=true&locale=en" alt="XBIZART" /></p>
-
   <img src="https://github.com/XBIZART/XBIZART/raw/eleven/IMG-20190925-WA0239.jpg"><br>
 </p>
