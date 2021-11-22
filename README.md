@@ -9,5 +9,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XBIZART&" alt="XBIZART" /></p>
 
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=XBIZART&column=3&margin-w=15&margin-h=15&" alt="XBIZART" /></p>
-
-https://github.com/XBIZART/XBIZART/raw/eleven/IMG-20190925-WA0239.jpg
